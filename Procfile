@@ -1,2 +1,1 @@
-web: npm start
-postinstall: git submodule update --init --recursive
+   web: cd suno-api && npm start
