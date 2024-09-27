@@ -1,1 +1,1 @@
-   web: cd suno-api && npm start
+   web: npm start
